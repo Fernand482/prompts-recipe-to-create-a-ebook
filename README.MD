@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -40,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de principais poetisas do século XXI, o ebookk é do nicho de poesia e o subnicho é de leitores de poesia, o título deve ser épico e curto, e tenha uma temática de girl power no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em poesia, listando as 6 principais poetisas do mundo no século XXI, incluindo ao menos uma brasileira. Explique sempre de uma maneira simples as obras e a importância de cada uma politicamente. Deixe o texto enxuto, sempre deixe um título sugestivo por tópico a cada nome
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Woman from the XXI century, blonde, red dress, writing a book, with a fireplace in the background
+, pixel art style --v 5.1 |
 
 ## ✨ Features
 
